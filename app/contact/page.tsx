@@ -33,21 +33,21 @@ export default function ContactPage() {
                 <MapPin className="h-6 w-6 text-green-600" />
                 <div>
                   <h3 className="font-bold">Our Location</h3>
-                  <p className="text-sm text-gray-500">123 Plant Street, Greenville, CA 94123</p>
+                  <p className="text-sm text-gray-500">131 race course, accra</p>
                 </div>
               </div>
               <div className="flex items-start gap-4">
                 <Mail className="h-6 w-6 text-green-600" />
                 <div>
                   <h3 className="font-bold">Email Us</h3>
-                  <p className="text-sm text-gray-500">hello@greenhaven.com</p>
+                  <p className="text-sm text-gray-500">flowerventuresmrd@gmail.com</p>
                 </div>
               </div>
               <div className="flex items-start gap-4">
                 <Phone className="h-6 w-6 text-green-600" />
                 <div>
                   <h3 className="font-bold">Call Us</h3>
-                  <p className="text-sm text-gray-500">(555) 123-4567</p>
+                  <p className="text-sm text-gray-500">(233) 242 0155 79</p>
                 </div>
               </div>
             </div>
