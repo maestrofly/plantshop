@@ -7,7 +7,7 @@ export function Footer() {
       <div className="container flex flex-col items-center justify-between gap-4 md:flex-row">
         <div className="flex items-center gap-2">
           <Leaf className="h-6 w-6 text-green-600" />
-          <span className="text-lg font-bold">Green Haven</span>
+          <span className="text-lg font-bold">Mrd Flowers</span>
         </div>
         <nav className="flex gap-4 sm:gap-6">
           <Link href="/" className="text-sm hover:underline underline-offset-4">
@@ -24,7 +24,7 @@ export function Footer() {
           </Link>
         </nav>
         <div className="text-center text-sm text-muted-foreground">
-          © {new Date().getFullYear()} Green Haven. All rights reserved.
+          © {new Date().getFullYear()} Mrd flowers. All rights reserved.
         </div>
       </div>
     </footer>
