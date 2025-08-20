@@ -8,7 +8,7 @@ export default function AboutPage() {
           <div className="flex flex-col items-center space-y-4 text-center">
             <div className="inline-block rounded-lg bg-green-100 px-3 py-1 text-sm text-green-700">Our Story</div>
             <h1 className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl lg:text-6xl/none">
-              About Green Haven
+              About Mrd Flowers
             </h1>
             <p className="mx-auto max-w-[700px] text-gray-500 md:text-xl">
               We're passionate about plants and their ability to transform spaces and improve wellbeing.
@@ -55,7 +55,7 @@ export default function AboutPage() {
             <div className="space-y-2">
               <h2 className="text-3xl font-bold tracking-tighter sm:text-5xl">Our Values</h2>
               <p className="max-w-[900px] text-gray-500 md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
-                The principles that guide everything we do at Green Haven.
+                The principles that guide everything we do at Mrd Flowers.
               </p>
             </div>
             <div className="mx-auto grid max-w-5xl grid-cols-1 gap-8 pt-12 md:grid-cols-3">
@@ -124,7 +124,7 @@ export default function AboutPage() {
             <div className="space-y-2">
               <h2 className="text-3xl font-bold tracking-tighter sm:text-5xl">Meet Our Team</h2>
               <p className="max-w-[900px] text-gray-500 md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
-                The plant enthusiasts behind Green Haven.
+                The plant enthusiasts behind Mrd Flowers.
               </p>
             </div>
             <div className="mx-auto grid max-w-5xl grid-cols-1 gap-8 pt-12 md:grid-cols-3">
@@ -137,10 +137,10 @@ export default function AboutPage() {
                   height={128}
                 />
                 <div className="space-y-2 text-center">
-                  <h3 className="text-xl font-bold">Sarah Johnson</h3>
+                  <h3 className="text-xl font-bold">Maria Jose Alberto Darku</h3>
                   <p className="text-sm text-green-600">Founder & Plant Expert</p>
                   <p className="text-sm text-gray-500">
-                    With over 15 years of experience in horticulture, Sarah founded Green Haven to share her passion for
+                    With over 15 years of experience in horticulture, Maria founded Mrd Flowers to share her passion for
                     plants.
                   </p>
                 </div>
@@ -154,10 +154,10 @@ export default function AboutPage() {
                   height={128}
                 />
                 <div className="space-y-2 text-center">
-                  <h3 className="text-xl font-bold">Michael Chen</h3>
+                  <h3 className="text-xl font-bold">Raymond Darku</h3>
                   <p className="text-sm text-green-600">Botanist & Care Specialist</p>
                   <p className="text-sm text-gray-500">
-                    Michael's botanical expertise ensures that our care guides and propagation methods are
+                    Raymond's botanical expertise ensures that our care guides and propagation methods are
                     scientifically sound.
                   </p>
                 </div>
@@ -171,7 +171,7 @@ export default function AboutPage() {
                   height={128}
                 />
                 <div className="space-y-2 text-center">
-                  <h3 className="text-xl font-bold">Aisha Patel</h3>
+                  <h3 className="text-xl font-bold">Derrick Darku</h3>
                   <p className="text-sm text-green-600">Sustainability Director</p>
                   <p className="text-sm text-gray-500">
                     Aisha leads our sustainability initiatives, ensuring our practices are environmentally responsible.
