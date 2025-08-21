@@ -31,7 +31,7 @@ export const plants: Plant[] = [
     shortDescription: "Popular houseplant with unique split leaves",
     description:
       "The Monstera Deliciosa, also known as the Swiss Cheese Plant, is famous for its large, glossy, perforated leaves. It's a popular choice for indoor spaces due to its dramatic appearance and relatively easy care requirements.",
-    image: "/placeholder.svg?height=400&width=600",
+    image: "/images/monstera.jpeg",
     light: "Bright indirect",
     water: "Weekly",
     temperature: "65-85°F",
@@ -78,7 +78,7 @@ export const plants: Plant[] = [
     shortDescription: "Nearly indestructible plant with upright leaves",
     description:
       "The Snake Plant, also known as Mother-in-Law's Tongue, is one of the most tolerant houseplants you can find. With its stiff, upright leaves and ability to survive in various conditions, it's perfect for beginners or busy plant owners.",
-    image: "/placeholder.svg?height=400&width=600",
+    image: "/images/snakeplant1.jpeg",
     light: "Low to bright indirect",
     water: "Every 2-3 weeks",
     temperature: "60-85°F",
@@ -127,7 +127,7 @@ export const plants: Plant[] = [
     shortDescription: "Trailing vine with heart-shaped leaves",
     description:
       "Pothos, also known as Devil's Ivy, is a versatile trailing plant with heart-shaped leaves that come in various patterns including golden, marble, and neon. It's incredibly adaptable and can thrive in a variety of indoor conditions.",
-    image: "/placeholder.svg?height=400&width=600",
+    image: "/images/pothos.jpeg",
     light: "Low to bright indirect",
     water: "Every 1-2 weeks",
     temperature: "65-85°F",
@@ -177,7 +177,7 @@ export const plants: Plant[] = [
     shortDescription: "Elegant flowering plant with glossy leaves",
     description:
       "The Peace Lily is a popular flowering houseplant known for its elegant white blooms and glossy green leaves. It's valued not only for its beauty but also for its air-purifying qualities and ability to thrive in lower light conditions.",
-    image: "/placeholder.svg?height=400&width=600",
+    image: "/images/peacelily.jpeg",
     light: "Low to medium indirect",
     water: "Weekly",
     temperature: "65-80°F",
@@ -221,7 +221,7 @@ export const plants: Plant[] = [
     shortDescription: "Trendy plant with large, violin-shaped leaves",
     description:
       "The Fiddle Leaf Fig is a popular indoor tree known for its large, violin-shaped leaves. It makes a dramatic statement in any space and has become a staple in interior design. While beautiful, it requires consistent care to thrive.",
-    image: "/placeholder.svg?height=400&width=600",
+    image: "/images/fiddlefig.jpeg",
     light: "Bright indirect",
     water: "Every 7-10 days",
     temperature: "65-75°F",
@@ -269,7 +269,7 @@ export const plants: Plant[] = [
     shortDescription: "Low-maintenance plant with glossy leaves",
     description:
       "The ZZ Plant is known for its glossy, dark green leaves and extremely forgiving nature. It can survive in low light and with infrequent watering, making it perfect for beginners, offices, or anyone with a busy lifestyle.",
-    image: "/placeholder.svg?height=400&width=600",
+    image: "/images/zzplant.jpeg",
     light: "Low to bright indirect",
     water: "Every 2-3 weeks",
     temperature: "65-85°F",
