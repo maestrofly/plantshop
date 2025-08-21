@@ -23,7 +23,7 @@ export default function AboutPage() {
             <div>
               <img
                 src="/placeholder.svg?height=400&width=600"
-                alt="Green Haven store interior"
+                alt="Mrd flower store interior"
                 className="mx-auto aspect-video overflow-hidden rounded-xl object-cover object-center sm:w-full lg:order-last"
                 width={600}
                 height={400}
@@ -35,7 +35,7 @@ export default function AboutPage() {
               </div>
               <h2 className="text-3xl font-bold tracking-tight">Bringing Nature Into Your Home</h2>
               <p className="text-gray-500 md:text-lg">
-                Green Haven was founded in 2018 with a simple mission: to help people connect with nature through
+                Mrd flowers was founded in 2020 with a simple mission: to help people connect with nature through
                 beautiful, healthy plants. We believe that everyone deserves to experience the joy and benefits of
                 living with plants, regardless of their experience level or living situation.
               </p>
